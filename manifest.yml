@@ -1,0 +1,9 @@
+applications:
+- disk_quota: 1024M
+  name: express-bluemix
+  command: npm start
+  path: .
+  domain: mybluemix.net
+  instances: 1
+  memory: 64M
+  buildpack: sdk-for-nodejs
