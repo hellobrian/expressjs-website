@@ -1,6 +1,5 @@
 applications:
-- disk_quota: 1024M
-  name: express-bluemix
+- name: express-bluemix
   command: npm start
   path: .
   domain: mybluemix.net

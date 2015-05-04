@@ -57,6 +57,7 @@
 ### Manifest File
 
 - Create a manifest.yml file
+- http://docs.cloudfoundry.org/devguide/deploy-apps/manifest.html
 - `cf api https://api.ng.bluemix.net`
 - `cf login`
 - Create .cfignore file (for node_modules)
